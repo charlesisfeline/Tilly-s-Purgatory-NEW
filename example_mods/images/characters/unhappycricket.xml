@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="unhappycricket.png"><SubTexture name="unhappycricket idle0000" x="0" y="0" width="206" height="256" frameX="0" frameY="0" frameWidth="206" frameHeight="256" />
+</TextureAtlas>

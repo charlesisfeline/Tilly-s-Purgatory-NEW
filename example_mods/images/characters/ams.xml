@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ams.png"><SubTexture name="ams idle0000" x="0" y="0" width="352" height="280" frameX="0" frameY="0" frameWidth="352" frameHeight="280" />
+<SubTexture name="ams idle0001" x="352" y="0" width="355" height="291" frameX="0" frameY="0" frameWidth="355" frameHeight="291" />
+<SubTexture name="ams idle0002" x="707" y="0" width="336" height="309" frameX="0" frameY="0" frameWidth="336" frameHeight="309" />
+<SubTexture name="ams idle0003" x="0" y="309" width="317" height="274" frameX="0" frameY="0" frameWidth="317" frameHeight="274" />
+<SubTexture name="ams left0000" x="317" y="309" width="353" height="278" frameX="0" frameY="0" frameWidth="353" frameHeight="278" />
+<SubTexture name="ams left0001" x="670" y="309" width="382" height="276" frameX="0" frameY="0" frameWidth="382" frameHeight="276" />
+<SubTexture name="ams left miss0000" x="0" y="587" width="353" height="280" frameX="0" frameY="0" frameWidth="353" frameHeight="280" />
+<SubTexture name="ams right0000" x="353" y="587" width="354" height="275" frameX="0" frameY="0" frameWidth="354" frameHeight="275" />
+<SubTexture name="ams right0001" x="707" y="587" width="415" height="276" frameX="0" frameY="0" frameWidth="415" frameHeight="276" />
+<SubTexture name="ams right miss0000" x="0" y="867" width="365" height="274" frameX="0" frameY="0" frameWidth="365" frameHeight="274" />
+<SubTexture name="ams up0000" x="365" y="867" width="366" height="316" frameX="0" frameY="0" frameWidth="366" frameHeight="316" />
+<SubTexture name="ams up0001" x="731" y="867" width="366" height="357" frameX="0" frameY="0" frameWidth="366" frameHeight="357" />
+<SubTexture name="ams down0000" x="0" y="1224" width="419" height="277" frameX="0" frameY="0" frameWidth="419" frameHeight="277" />
+<SubTexture name="ams down0001" x="419" y="1224" width="419" height="243" frameX="0" frameY="0" frameWidth="419" frameHeight="243" />
+<SubTexture name="ams down miss0000" x="838" y="1224" width="434" height="274" frameX="0" frameY="0" frameWidth="434" frameHeight="274" />
+</TextureAtlas>

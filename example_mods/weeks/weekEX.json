@@ -1,0 +1,67 @@
+{
+	"storyName": "Till-Purgation",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Till-Purgation",
+			"tilly",
+			[
+				226,
+				113,
+				253
+			]
+		],
+		[
+			"Theating",
+			"god",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"Till-Fairness",
+			"unfair",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Till-Bound",
+			"power",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Till-Position",
+			"oppo",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"default",
+		"bf",
+		"gf"
+	],
+	"weekName": "Till-Purgation"
+}

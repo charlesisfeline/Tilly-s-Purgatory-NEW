@@ -1,0 +1,31 @@
+{
+	"storyName": "",
+	"difficulties": "Normal, FFVersion",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Royale",
+			"mtvm914",
+			[
+				255,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": ""
+}

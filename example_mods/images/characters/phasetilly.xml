@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="phasetilly.png"><SubTexture name="phasetilly idle0000" x="0" y="0" width="835" height="718" frameX="0" frameY="0" frameWidth="835" frameHeight="718" />
+<SubTexture name="phasetilly idle0001" x="835" y="0" width="828" height="724" frameX="0" frameY="0" frameWidth="828" frameHeight="724" />
+<SubTexture name="phasetilly idle0002" x="0" y="724" width="726" height="724" frameX="0" frameY="0" frameWidth="726" frameHeight="724" />
+<SubTexture name="phasetilly idle0003" x="726" y="724" width="795" height="724" frameX="0" frameY="0" frameWidth="795" frameHeight="724" />
+<SubTexture name="phasetilly idle0004" x="0" y="1448" width="840" height="715" frameX="0" frameY="0" frameWidth="840" frameHeight="715" />
+<SubTexture name="phasetilly idle0005" x="840" y="1448" width="788" height="724" frameX="0" frameY="0" frameWidth="788" frameHeight="724" />
+<SubTexture name="phasetilly idle0006" x="0" y="2172" width="715" height="720" frameX="0" frameY="0" frameWidth="715" frameHeight="720" />
+<SubTexture name="phasetilly idle0007" x="715" y="2172" width="831" height="724" frameX="0" frameY="0" frameWidth="831" frameHeight="724" />
+</TextureAtlas>

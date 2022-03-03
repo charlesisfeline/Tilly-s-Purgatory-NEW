@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pm.png"><SubTexture name="pm left0000" x="0" y="0" width="347" height="362" frameX="0" frameY="0" frameWidth="347" frameHeight="362" />
+<SubTexture name="pm right0000" x="347" y="0" width="403" height="408" frameX="0" frameY="0" frameWidth="403" frameHeight="408" />
+<SubTexture name="pm down0000" x="0" y="408" width="324" height="371" frameX="0" frameY="0" frameWidth="324" frameHeight="371" />
+<SubTexture name="pm hey0000" x="324" y="408" width="445" height="425" frameX="0" frameY="0" frameWidth="445" frameHeight="425" />
+<SubTexture name="pm up0000" x="0" y="833" width="327" height="418" frameX="0" frameY="0" frameWidth="327" frameHeight="418" />
+<SubTexture name="pm idle0000" x="327" y="833" width="243" height="398" frameX="0" frameY="0" frameWidth="243" frameHeight="398" />
+</TextureAtlas>

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				90
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "idle",
+			"loop": false,
+			"name": "pennyhumannew idle000"
+		},
+		{
+			"offsets": [
+				0,
+				100
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "pennyhumannew idle000"
+		},
+		{
+			"offsets": [
+				-9,
+				80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "pennyhumannew left000"
+		},
+		{
+			"offsets": [
+				-8,
+				70
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "pennyhumannew left000"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "pennyhumannew right000"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "pennyhumannew right000"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "pennyhumannew up000"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singUP",
+			"loop": false,
+			"name": "pennyhumannew up000"
+		},
+		{
+			"offsets": [
+				0,
+				83
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "pennyhumannew down000"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pennyhumannew",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "penny",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		83,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

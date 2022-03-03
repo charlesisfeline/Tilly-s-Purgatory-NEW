@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "waywaywaytoomuch idle000"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/waywaywaytoomuch",
+	"position": [
+		-530,
+		-370
+	],
+	"healthicon": "insane",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		-770,
+		-410
+	],
+	"sing_duration": 6.1,
+	"scale": 5.3
+}

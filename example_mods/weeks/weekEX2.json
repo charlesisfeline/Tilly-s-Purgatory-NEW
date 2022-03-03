@@ -1,0 +1,49 @@
+{
+	"storyName": "Too Overpowered",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"default",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Till-archy",
+			"squashed",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Godelly",
+			"phase",
+			[
+				255,
+				113,
+				253
+			]
+		],
+		[
+			"Demasiado poder",
+			"insane",
+			[
+				255,
+				255,
+				33
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

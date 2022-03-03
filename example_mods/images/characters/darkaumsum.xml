@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="aumsum.png">
+<!-- Created with Adobe Animate version 21.0.2.37893 -->
+<!-- http://www.adobe.com/products/animate.html -->
+<SubTexture name="DanceLeft instance0000" x="0" y="0" width="640" height="670" frameX="0" frameY="0" frameWidth="640" frameHeight="670" />
+<SubTexture name="DanceLeft instance0001" x="640" y="0" width="640" height="670" frameX="0" frameY="0" frameWidth="640" frameHeight="670" />
+<SubTexture name="DanceLeft instance0002" x="1280" y="0" width="640" height="670" frameX="0" frameY="0" frameWidth="640" frameHeight="670" />
+<SubTexture name="DanceLeft instance0003" x="1920" y="0" width="640" height="670" frameX="0" frameY="0" frameWidth="640" frameHeight="670" />
+<SubTexture name="DanceRight instance0000" x="0" y="670" width="640" height="670" frameX="0" frameY="0" frameWidth="640" frameHeight="670" />
+<SubTexture name="DanceRight instance0001" x="640" y="670" width="640" height="670" frameX="0" frameY="0" frameWidth="640" frameHeight="670" />
+<SubTexture name="DanceRight instance0002" x="1280" y="670" width="640" height="670" frameX="0" frameY="0" frameWidth="640" frameHeight="670" />
+<SubTexture name="DanceRight instance0003" x="1920" y="670" width="640" height="670" frameX="0" frameY="0" frameWidth="640" frameHeight="670" />
+<SubTexture name="SingLeft instance0000" x="0" y="1340" width="640" height="670" frameX="0" frameY="0" frameWidth="640" frameHeight="670" />
+<SubTexture name="SingLeft instance0001" x="640" y="1340" width="640" height="670" frameX="0" frameY="0" frameWidth="640" frameHeight="670" />
+<SubTexture name="SingLeft instance0002" x="1280" y="1340" width="640" height="670" frameX="0" frameY="0" frameWidth="640" frameHeight="670" />
+<SubTexture name="SingUp instance0000" x="1920" y="1340" width="640" height="670" frameX="0" frameY="0" frameWidth="640" frameHeight="670" />
+<SubTexture name="SingUp instance0001" x="0" y="2010" width="640" height="670" frameX="0" frameY="0" frameWidth="640" frameHeight="670" />
+<SubTexture name="SingUp instance0002" x="640" y="2010" width="640" height="670" frameX="0" frameY="0" frameWidth="640" frameHeight="670" />
+<SubTexture name="SingDown instance0000" x="1280" y="2010" width="640" height="670" frameX="0" frameY="0" frameWidth="640" frameHeight="670" />
+<SubTexture name="SingDown instance0001" x="1920" y="2010" width="640" height="670" frameX="0" frameY="0" frameWidth="640" frameHeight="670" />
+<SubTexture name="SingDown instance0002" x="0" y="2680" width="640" height="670" frameX="0" frameY="0" frameWidth="640" frameHeight="670" />
+<SubTexture name="SingRight instance0000" x="640" y="2680" width="640" height="670" frameX="0" frameY="0" frameWidth="640" frameHeight="670" />
+<SubTexture name="SingRight instance0001" x="1280" y="2680" width="640" height="670" frameX="0" frameY="0" frameWidth="640" frameHeight="670" />
+<SubTexture name="SingRight instance0002" x="1920" y="2680" width="640" height="670" frameX="0" frameY="0" frameWidth="640" frameHeight="670" />
+</TextureAtlas>

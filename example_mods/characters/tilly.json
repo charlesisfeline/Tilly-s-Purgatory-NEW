@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "tilly idle000",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 12,
+			"name": "tilly idle000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "tilly left000",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				21,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "tilly left000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "tilly down000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "tilly up000",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "tilly up000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "tilly right000",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "tilly right000",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tilly",
+	"position": [
+		220,
+		230
+	],
+	"healthicon": "tillynew",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		80,
+		161
+	],
+	"camera_position": [
+		-350,
+		-170
+	],
+	"sing_duration": 6.1,
+	"scale": 2.9
+}

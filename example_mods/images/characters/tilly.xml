@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tilly.png"><SubTexture name="tilly down0000" x="0" y="0" width="169" height="235" frameX="0" frameY="0" frameWidth="169" frameHeight="235" />
+<SubTexture name="tilly down0001" x="169" y="0" width="169" height="235" frameX="0" frameY="0" frameWidth="169" frameHeight="235" />
+<SubTexture name="tilly down0002" x="338" y="0" width="169" height="235" frameX="0" frameY="0" frameWidth="169" frameHeight="235" />
+<SubTexture name="tilly idle0000" x="507" y="0" width="169" height="235" frameX="0" frameY="0" frameWidth="169" frameHeight="235" />
+<SubTexture name="tilly idle0001" x="0" y="235" width="169" height="235" frameX="0" frameY="0" frameWidth="169" frameHeight="235" />
+<SubTexture name="tilly idle0002" x="169" y="235" width="169" height="235" frameX="0" frameY="0" frameWidth="169" frameHeight="235" />
+<SubTexture name="tilly idle0003" x="338" y="235" width="169" height="235" frameX="0" frameY="0" frameWidth="169" frameHeight="235" />
+<SubTexture name="tilly idle0004" x="507" y="235" width="169" height="235" frameX="0" frameY="0" frameWidth="169" frameHeight="235" />
+<SubTexture name="tilly left0000" x="0" y="470" width="169" height="235" frameX="0" frameY="0" frameWidth="169" frameHeight="235" />
+<SubTexture name="tilly left0001" x="169" y="470" width="169" height="235" frameX="0" frameY="0" frameWidth="169" frameHeight="235" />
+<SubTexture name="tilly left0002" x="338" y="470" width="169" height="235" frameX="0" frameY="0" frameWidth="169" frameHeight="235" />
+<SubTexture name="tilly right0000" x="507" y="470" width="169" height="235" frameX="0" frameY="0" frameWidth="169" frameHeight="235" />
+<SubTexture name="tilly right0001" x="0" y="705" width="169" height="235" frameX="0" frameY="0" frameWidth="169" frameHeight="235" />
+<SubTexture name="tilly right0002" x="169" y="705" width="169" height="235" frameX="0" frameY="0" frameWidth="169" frameHeight="235" />
+<SubTexture name="tilly up0000" x="338" y="705" width="169" height="235" frameX="0" frameY="0" frameWidth="169" frameHeight="235" />
+<SubTexture name="tilly up0001" x="507" y="705" width="169" height="235" frameX="0" frameY="0" frameWidth="169" frameHeight="235" />
+<SubTexture name="tilly up0002" x="0" y="940" width="169" height="235" frameX="0" frameY="0" frameWidth="169" frameHeight="235" />
+</TextureAtlas>

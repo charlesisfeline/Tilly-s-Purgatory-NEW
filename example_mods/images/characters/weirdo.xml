@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="weirdo.png"><SubTexture name="weirdo idle0000" x="0" y="0" width="662" height="599" frameX="0" frameY="0" frameWidth="662" frameHeight="599" />
+<SubTexture name="weirdo idle0001" x="662" y="0" width="662" height="545" frameX="0" frameY="0" frameWidth="662" frameHeight="545" />
+<SubTexture name="weirdo idle0002" x="1324" y="0" width="662" height="449" frameX="0" frameY="0" frameWidth="662" frameHeight="449" />
+<SubTexture name="weirdo left0000" x="0" y="599" width="737" height="599" frameX="0" frameY="0" frameWidth="737" frameHeight="599" />
+<SubTexture name="weirdo left0001" x="737" y="599" width="737" height="599" frameX="0" frameY="0" frameWidth="737" frameHeight="599" />
+<SubTexture name="weirdo right0000" x="1474" y="599" width="673" height="710" frameX="0" frameY="0" frameWidth="673" frameHeight="710" />
+<SubTexture name="weirdo right0001" x="0" y="1309" width="665" height="710" frameX="0" frameY="0" frameWidth="665" frameHeight="710" />
+<SubTexture name="weirdo up0000" x="665" y="1309" width="668" height="701" frameX="0" frameY="0" frameWidth="668" frameHeight="701" />
+<SubTexture name="weirdo up0001" x="1333" y="1309" width="668" height="701" frameX="0" frameY="0" frameWidth="668" frameHeight="701" />
+<SubTexture name="weirdo down0000" x="0" y="2019" width="735" height="630" frameX="0" frameY="0" frameWidth="735" frameHeight="630" />
+<SubTexture name="weirdo down0001" x="735" y="2019" width="735" height="503" frameX="0" frameY="0" frameWidth="735" frameHeight="503" />
+</TextureAtlas>

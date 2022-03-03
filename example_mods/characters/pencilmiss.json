@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-30
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "pm idle000",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-30
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "pm idle000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				1
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "pm hey000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				72,
+				-71
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "pm left000",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				72,
+				-71
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "pm left000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-71
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "pm down000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-31
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pm up000",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				-31
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "pm up000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				-11
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "pm right000",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-21,
+				-11
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "pm right000",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pm",
+	"position": [
+		0,
+		180
+	],
+	"healthicon": "pm",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		0,
+		206
+	],
+	"camera_position": [
+		-140,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

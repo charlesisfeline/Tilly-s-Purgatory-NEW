@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "mtvm914 idle000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "mtvm914 idle000"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "singUP",
+			"loop": false,
+			"name": "mtvm914 up000"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "mtvm914 up000"
+		},
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "mtvm914 down000"
+		},
+		{
+			"offsets": [
+				281,
+				10
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "mtvm914 right000"
+		},
+		{
+			"offsets": [
+				281,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "mtvm914 right000"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "mtvm914 left000"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "mtvm914 left000"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mtvm914",
+	"position": [
+		140,
+		50
+	],
+	"healthicon": "mtvm914",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		0,
+		220
+	],
+	"camera_position": [
+		-100,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 0.999999999999998
+}

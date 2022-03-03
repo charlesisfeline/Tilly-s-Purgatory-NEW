@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SingDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 12,
+			"name": "DanceRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SingLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 12,
+			"name": "DanceLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SingRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SingUp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lightaumsum",
+	"position": [
+		-60,
+		140
+	],
+	"healthicon": "lightaumsum",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-230,
+		150
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

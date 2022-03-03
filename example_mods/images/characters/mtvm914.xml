@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mtvm914.png"><SubTexture name="mtvm914 idle0000" x="0" y="0" width="352" height="520" frameX="0" frameY="0" frameWidth="352" frameHeight="520" />
+<SubTexture name="mtvm914 idle0001" x="352" y="0" width="352" height="521" frameX="0" frameY="0" frameWidth="352" frameHeight="521" />
+<SubTexture name="mtvm914 idle0002" x="704" y="0" width="352" height="517" frameX="0" frameY="0" frameWidth="352" frameHeight="517" />
+<SubTexture name="mtvm914 left0000" x="0" y="521" width="352" height="520" frameX="0" frameY="0" frameWidth="352" frameHeight="520" />
+<SubTexture name="mtvm914 left0001" x="352" y="521" width="331" height="468" frameX="0" frameY="0" frameWidth="331" frameHeight="468" />
+<SubTexture name="mtvm914 right0000" x="683" y="521" width="395" height="520" frameX="0" frameY="0" frameWidth="395" frameHeight="520" />
+<SubTexture name="mtvm914 right0001" x="0" y="1041" width="480" height="520" frameX="0" frameY="0" frameWidth="480" frameHeight="520" />
+<SubTexture name="mtvm914 right0002" x="480" y="1041" width="522" height="520" frameX="0" frameY="0" frameWidth="522" frameHeight="520" />
+<SubTexture name="mtvm914 right0003" x="1002" y="1041" width="604" height="520" frameX="0" frameY="0" frameWidth="604" frameHeight="520" />
+<SubTexture name="mtvm914 up0000" x="0" y="1561" width="352" height="629" frameX="0" frameY="0" frameWidth="352" frameHeight="629" />
+<SubTexture name="mtvm914 up0001" x="352" y="1561" width="352" height="629" frameX="0" frameY="0" frameWidth="352" frameHeight="629" />
+<SubTexture name="mtvm914 down0000" x="704" y="1561" width="352" height="520" frameX="0" frameY="0" frameWidth="352" frameHeight="520" />
+<SubTexture name="mtvm914 down0001" x="0" y="2190" width="352" height="520" frameX="0" frameY="0" frameWidth="352" frameHeight="520" />
+</TextureAtlas>

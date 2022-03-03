@@ -1,0 +1,31 @@
+{
+	"storyName": "What if Till-Position came even sooner?",
+	"difficulties": "Scrapped, Old",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Till-Position",
+			"tillyold",
+			[
+				186,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"default",
+		"bf",
+		"gf"
+	],
+	"weekName": "Early Scrapped"
+}
