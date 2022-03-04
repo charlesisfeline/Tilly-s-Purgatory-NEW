@@ -51,7 +51,8 @@ class ClientPrefs {
 	public static var inputSystem:String = 'Native';
 
 	public static var comboOffset:Array<Int> = [0, 0, 0, 0];
-	public static var noAntimash:Bool = false;
+	public static var keSustains:Bool = true; //i was bored, okay?
+	public static var noAntimash:Bool = true;
 	public static var ratingOffset:Int = 0;
 	public static var sickWindow:Int = 45;
 	public static var goodWindow:Int = 90;
