@@ -404,7 +404,7 @@ class ChartingState extends MusicBeatState
 		UI_songTitle = new FlxUIInputText(10, 10, 70, _song.song, 8);
 		blockPressWhileTypingOn.push(UI_songTitle);
 		
-		var check_voices = new FlxUICheckBox(10, 25, null, null, "Has voice track", 100);
+		var check_voices = new FlxUICheckBox(10, 25, null, null, "Voice Track?", 100);
 		check_voices.checked = _song.needsVoices;
 		// _song.needsVoices = check_voices.checked;
 		check_voices.callback = function()
@@ -413,12 +413,12 @@ class ChartingState extends MusicBeatState
 			//trace('CHECKED!');
 		};
 
-		var saveButton:FlxButton = new FlxButton(110, 8, "Save", function()
+		var saveButton:FlxButton = new FlxButton(110, 8, "Export", function()
 		{
 			saveLevel();
 		});
 
-		var reloadSong:FlxButton = new FlxButton(saveButton.x + 90, saveButton.y, "Reload Audio", function()
+		var reloadSong:FlxButton = new FlxButton(saveButton.x + 90, saveButton.y, "Load Audio", function()
 		{
 			currentSongName = Paths.formatToSongPath(UI_songTitle.text);
 			loadSong();
@@ -426,7 +426,7 @@ class ChartingState extends MusicBeatState
 			updateWaveform();
 		});
 
-		var reloadSongJson:FlxButton = new FlxButton(reloadSong.x, saveButton.y + 30, "Reload JSON", function()
+		var reloadSongJson:FlxButton = new FlxButton(reloadSong.x, saveButton.y + 30, "Load JSON", function()
 		{
 			openSubState(new Prompt('This action will clear current progress.\n\nProceed?', 0, function(){loadJson(_song.song.toLowerCase()); }, null,ignoreWarnings));
 		});
