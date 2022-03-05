@@ -4538,11 +4538,12 @@ class PlayState extends MusicBeatState
 
 			// Rating FC
 			ratingFC = "";
-			if (sicks > 0) ratingFC = "SFC";
-			if (goods > 0) ratingFC = "GFC";
-			if (bads > 0 || shits > 0) ratingFC = "FC";
-			if (songMisses > 0 && songMisses < 10) ratingFC = "SDCB";
-			else if (songMisses >= 10) ratingFC = "Clear";
+			if (sicks > 0) ratingFC = "GOD";
+			if (goods > 0) ratingFC = "MASTER";
+			if (bads > 0 || shits > 0) ratingFC = "PRO";
+			if (songMisses > 0 && songMisses < 10) ratingFC = "SKILL ISSUE";
+			if (songMisses >= 10 && songMisses < 20) ratingFC = "NOOB";
+			else if (songMisses >= 20) ratingFC = "HaAHAHahha";
 		}
 		setOnLuas('rating', ratingPercent);
 		setOnLuas('ratingName', ratingName);
