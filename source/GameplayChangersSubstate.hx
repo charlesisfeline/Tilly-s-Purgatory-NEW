@@ -85,10 +85,10 @@ class GameplayChangersSubstate extends MusicBeatSubstate
 		var option:GameplayOption = new GameplayOption('Instakill on Miss', 'instakill', 'bool', false);
 		optionsArray.push(option);
 
-		var option:GameplayOption = new GameplayOption('Practice Mode', 'practice', 'bool', false);
+		var option:GameplayOption = new GameplayOption('Low Health No Death Mode', 'practice', 'bool', false);
 		optionsArray.push(option);
 
-		var option:GameplayOption = new GameplayOption('Botplay', 'botplay', 'bool', false);
+		var option:GameplayOption = new GameplayOption('Autoplay', 'botplay', 'bool', false);
 		optionsArray.push(option);
 	}
 
