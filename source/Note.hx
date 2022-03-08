@@ -73,14 +73,18 @@ class Note extends FlxSprite
 			 "strumAnims" => ["LEFT", "DOWN", "UP", "RIGHT", "SPACE", "CIRCLE", "LEFT", "DOWN", "UP", "RIGHT"], "pixelAnimIndex" => [0, 1, 2, 3, 4, 13, 5, 6, 7, 8]],
 
 		10=> ["letters" => ["A", "B", "C", "D", "J", "N", "M", "F", "G", "H", "I"], "anims" => ["LEFT", "DOWN", "UP", "RIGHT", "LEFT", "UP", "RIGHT", "LEFT", "DOWN", "UP", "RIGHT"],
-			 "strumAnims" => ["LEFT", "DOWN", "UP", "RIGHT", "CIRCLE", "CIRCLE", "CIRCLE", "LEFT", "DOWN", "UP", "RIGHT"], "pixelAnimIndex" => [0, 1, 2, 3, 9, 13, 12, 5, 6, 7, 8]]
+			 "strumAnims" => ["LEFT", "DOWN", "UP", "RIGHT", "CIRCLE", "CIRCLE", "CIRCLE", "LEFT", "DOWN", "UP", "RIGHT"], "pixelAnimIndex" => [0, 1, 2, 3, 9, 13, 12, 5, 6, 7, 8]],
+		
+		11=> ["letters" => ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R'], "anims" => ["LEFT", "DOWN", "RIGHT", "LEFT", "UP", "RIGHT", "LEFT", "UP", "RIGHT", "LEFT", "DOWN", "RIGHT", "LEFT", "UP", "RIGHT", "LEFT", "UP", "RIGHT"],
+			 "strumAnims" => ["LEFT", "DOWN", "RIGHT", "CIRCLE", "CIRCLE", "CIRCLE", "LEFT", "UP", "RIGHT", "LEFT", "DOWN", "RIGHT", "CIRCLE", "CIRCLE", "CIRCLE", "LEFT", "UP", "RIGHT"], "pixelAnimIndex" => [0, 1, 2, 3, 4, 5, 6, 7, 6, 7, 8, 9, 10 ,11 , 12, 13, 14, 15, 16, 17]]
+		
 	];
 
 	public static var ammo:Array<Int> = [
-		1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
+		1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12
 	];
 
-	public static var pixelScales:Array<Float> = [1.2, 1.15, 1.1, 1, 0.9, 0.83, 0.8, 0.74, 0.7, 0.6, 0.55];
+	public static var pixelScales:Array<Float> = [1.2, 1.15, 1.1, 1, 0.9, 0.83, 0.8, 0.74, 0.7, 0.6, 0.55, 0.25];
 
 	public var strumTime:Float = 0;
 
