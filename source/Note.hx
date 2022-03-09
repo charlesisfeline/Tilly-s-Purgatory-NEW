@@ -45,7 +45,7 @@ class Note extends FlxSprite
 	];
 
 	public static var minMania:Int = 0;
-	public static var maxMania:Int = 10;
+	public static var maxMania:Int = 11;
 	public static var defaultMania:Int = 3;
 
 	public static var keysShit:Map<Int, Map<String, Dynamic>> = [
