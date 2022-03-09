@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "overjoyedcricket idle000"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/oddballcricket",
+	"position": [
+		240,
+		380
+	],
+	"healthicon": "oddball",
+	"flip_x": false,
+	"healthbar_colors": [
+		230,
+		102,
+		116
+	],
+	"camera_position": [
+		-150,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

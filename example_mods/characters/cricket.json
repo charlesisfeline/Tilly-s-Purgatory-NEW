@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "cricket hey000"
+		},
+		{
+			"offsets": [
+				0,
+				60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "cricket idle000"
+		},
+		{
+			"offsets": [
+				0,
+				60
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "cricket idle000"
+		},
+		{
+			"offsets": [
+				0,
+				-151
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "cricket down000"
+		},
+		{
+			"offsets": [
+				72,
+				9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "cricket left000"
+		},
+		{
+			"offsets": [
+				72,
+				9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "cricket left000"
+		},
+		{
+			"offsets": [
+				-6,
+				89
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "cricket up000"
+		},
+		{
+			"offsets": [
+				-6,
+				89
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "cricket up000"
+		},
+		{
+			"offsets": [
+				-111,
+				-11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "cricket right000"
+		},
+		{
+			"offsets": [
+				-131,
+				-11
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "cricket right000"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cricket",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "cricket",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		206
+	],
+	"camera_position": [
+		-140,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}
